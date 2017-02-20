@@ -1,0 +1,19 @@
+
+Root generated with cost:17.5
+Item pushed with priority 17.5
+State poped - 17.5
+include-[]
+exclude-[]
+Parent: 17.5
+Lists updated on include:
+include-[0]
+exclude-[]
+State generated along edge [0 1] with cost: 17.5
+Not a vaid cycle!!
+Item pushed with priority 17.5
+Parent: 17.5
+State generated without edge [0 1] with cost: 18.5
+Not a vaid cycle!!
+Item pushed with priority 18.5
+Sending state to process1
+Sending state to process2

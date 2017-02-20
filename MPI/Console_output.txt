@@ -1,0 +1,14 @@
+(precise)dipti@localhost:~/PycharmProjects/TSP_570$ mpiexec  -n 3 python  tsp.py
+[[922337      3      4      2      7]
+ [     3 922337      4      6      3]
+ [     4      4 922337      5      8]
+ [     2      6      5 922337      6]
+ [     7      3      8      6 922337]]
+--- 0.000599145889282 seconds ---
+The optimal tour cost =19.0
+The optimal tour includes edges:
+[0 2]
+[0 3]
+[1 2]
+[1 4]
+[3 4]
